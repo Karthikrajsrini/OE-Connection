@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+wREU03qLdfZON2zC4AY+nwWdw2+BLhlZ++jph0+oEw=",
+  "Source": "payments-api",
+  "BasePath": "_content/payments-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
